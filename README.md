@@ -9,3 +9,6 @@ In the next step we implemented it with Model-View-Controller architecture, sepa
 Later we implemented a Service layer and Data Access Objects layers to a better responsability separation when implementing data persistence. Wich came in the next step using MySQL.
 Further on we implemented Spring framework for transactions, entity management and REST operations.
 Finally we added frontend using html, css (bootstrap) and JavaScript.
+
+// Tech && Methodologies
+Java, IntelliJ, Maven, JUnit, Mockito, Hibernate, Spring MVC, REST, Tomcat, MySQL, JPA, Git.
